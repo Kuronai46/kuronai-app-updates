@@ -9,7 +9,7 @@
     "tr": "Güvenlik ihlali tespit edildi veya bakım çalışması var. Lütfen daha sonra tekrar deneyin.\nKod: K-99",
     "en": "Security breach detected or maintenance in progress. Please try again later.\nCode: K-99",
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
-  }
+  },
   "update_config": {
     "latest_version": "4.5.0",
     "force_update": true,
