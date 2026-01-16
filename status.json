@@ -10,4 +10,19 @@
     "en": "Security breach detected or maintenance in progress. Please try again later.\nCode: K-99",
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
   }
+  "update_config": {
+    "latest_version": "4.5.0",
+    "force_update": true,
+    "update_url": "https://t.me/kuronai60",
+    "title": {
+      "tr": "ZORUNLU GÜNCELLEME!",
+      "en": "MANDATORY UPDATE!",
+      "ru": "ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ!"
+    },
+    "message": {
+      "tr": "v4.5.0 sürümü indirilmeye hazır.",
+      "en": "v4.5.0 update is ready to download.",
+      "ru": "v4.5.0 готово к загрузке."
+    }
+  }
 }
