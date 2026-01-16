@@ -20,9 +20,9 @@
       "ru": "ОБЯЗАТЕЛЬНОЕ ОБНОВЛЕНИЕ!"
     },
     "message": {
-      "tr": "v4.5.0 sürümü indirilmeye hazır.",
-      "en": "v4.5.0 update is ready to download.",
-      "ru": "v4.5.0 готово к загрузке."
+      "tr": "sürümü indirilmeye hazır.",
+      "en": "update is ready to download.",
+      "ru": "готово к загрузке."
     }
   }
 }
