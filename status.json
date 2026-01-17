@@ -11,7 +11,7 @@
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
   },
   "update_config": {
-    "latest_version": "1.1.0",
+    "latest_version": "1.0.0",
     "force_update": true,
     "update_url": "https://t.me/kuronai60",
     "title": {
