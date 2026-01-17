@@ -10,6 +10,10 @@
     "en": "Security breach detected or maintenance in progress. Please try again later.\nCode: K-99",
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
   },
+  "banned_ids": [
+    "K-12345678", 
+    "K-A1B2C3D4"
+  ],
   "update_config": {
     "latest_version": "1.0.0",
     "force_update": true,
