@@ -7,7 +7,7 @@
   },
   "lock_message": {
     "tr": "Güvenlik ihlali tespit edildi veya bakım çalışması var. Lütfen daha sonra tekrar deneyin.\nKod: K-99",
-    "en": "maintenance in progress. Please try again later.\nCode: K-99",
+    "en": "I'm sorry, we have detected a very critical error and will fix it within 1 hour.\nCode: K-99",
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
   },
   "banned_ids": [
