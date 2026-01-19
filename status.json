@@ -1,5 +1,5 @@
 {
-  "kill_switch": false,
+  "kill_switch": true,
   "lock_title": {
     "tr": "SİSTEM KİLİTLENDİ",
     "en": "SYSTEM LOCKED",
@@ -7,7 +7,7 @@
   },
   "lock_message": {
     "tr": "Güvenlik ihlali tespit edildi veya bakım çalışması var. Lütfen daha sonra tekrar deneyin.\nKod: K-99",
-    "en": "Security breach detected or maintenance in progress. Please try again later.\nCode: K-99",
+    "en": "maintenance in progress. Please try again later.\nCode: K-99",
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
   },
   "banned_ids": [
