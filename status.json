@@ -7,7 +7,7 @@
   },
   "lock_message": {
     "tr": "Güvenlik ihlali tespit edildi veya bakım çalışması var. Lütfen daha sonra tekrar deneyin.\nKod: K-99",
-    "en": "Maintenance work. Please try again later.\nCode: K-99",
+    "en": "Access restricted due to unauthorized sales. Get Editing News Premium with code: Kuronai10\nCode: K-99",
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
   },
   "banned_ids": [
