@@ -7,7 +7,7 @@
   },
   "lock_message": {
     "tr": "Güvenlik ihlali tespit edildi veya bakım çalışması var. Lütfen daha sonra tekrar deneyin.\nKod: K-99",
-    "en": "I am currently disabling the mobile application.  I will fix a few bugs.  We are working to provide you with the best experience. \nCode: K-99",
+    "en": "I am currently disabling the mobile application. Method is Fixed So Wait a while \nCode: K-99",
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
   },
   "banned_ids": [
