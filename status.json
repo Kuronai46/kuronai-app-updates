@@ -7,7 +7,7 @@
   },
   "lock_message": {
     "tr": "Güvenlik ihlali tespit edildi veya bakım çalışması var. Lütfen daha sonra tekrar deneyin.\nKod: K-99",
-    "en": "New Method Coming Just Wait App is Updating... \nCode: K-99",
+    "en": "We are currently taking a short break for maintenance work. The plugin and app will be back online shortly. Thank you for your patience! \nCode: K-99",
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
   },
   "banned_ids": [
