@@ -1,5 +1,5 @@
 {
-  "kill_switch": true,
+  "kill_switch": false,
   "lock_title": {
     "tr": "SİSTEM KİLİTLENDİ",
     "en": "SYSTEM LOCKED",
@@ -38,7 +38,7 @@
     "K-A099B993615903A8"
   ],
   "update_config": {
-    "latest_version": "2.8.1",
+    "latest_version": "2.8.2",
     "force_update": true,
     "update_url": "https://t.me/kuronai60",
     "title": {
