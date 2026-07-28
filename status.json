@@ -49,7 +49,7 @@
 "update_config": {
     "latest_version": "2.8.5",
     "force_update": true,
-    "update_url": "https://github.com/Kuronai46/kuronai-app-updates/releases/download/v2.8.6/Kuronai.apk", 
+    "update_url": "https://api.kuronaiapp.com/mobile/app/updates/app-release.apk", 
     "title": {
       "tr": "ZORUNLU GÜNCELLEME!",
       "en": "MANDATORY UPDATE!",
