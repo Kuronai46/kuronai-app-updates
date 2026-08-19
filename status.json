@@ -10,6 +10,10 @@
     "en": "Maintenance work. The plugin will be back online shortly. Thank you for your patience! \nCode: K-99",
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
   },
+  "bypass_120fps": {
+    "status": "locked",
+    "message": "The 120FPS Bypass module is temporarily locked due to maintenance. Please try again later."
+  },
   "banned_ids": [
     "K-602712E47BB5BC8D",
     "K-9E19D9FB50897850",
