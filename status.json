@@ -11,7 +11,7 @@
     "ru": "Обнаружено нарушение безопасности или идут технические работы.\nКод: K-99"
   },
   "bypass_120fps": {
-    "status": "active",
+    "status": "locked",
     "message": "The 120FPS Bypass module is temporarily locked due to maintenance. Please try again later."
   },
   "banned_ids": [
@@ -52,7 +52,7 @@
     "K-FA5C5A52C28D516D"
   ],
 "update_config": {
-    "latest_version": "2.8.6",
+    "latest_version": "2.8.7",
     "force_update": true,
     "update_url": "t.me/kuronai60", 
     "title": {
